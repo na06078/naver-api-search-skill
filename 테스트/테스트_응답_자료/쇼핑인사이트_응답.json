@@ -1,0 +1,17 @@
+{
+  "startDate": "2026-01-01",
+  "endDate": "2026-03-01",
+  "timeUnit": "month",
+  "results": [
+    {
+      "title": "정장",
+      "keyword": ["정장"],
+      "data": [
+        { "period": "2026-01-01", "group": "mo", "ratio": 58.06418 },
+        { "period": "2026-01-01", "group": "pc", "ratio": 23.72304 },
+        { "period": "2026-02-01", "group": "mo", "ratio": 100 },
+        { "period": "2026-02-01", "group": "pc", "ratio": 35.18728 }
+      ]
+    }
+  ]
+}

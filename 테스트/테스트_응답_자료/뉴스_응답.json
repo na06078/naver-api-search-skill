@@ -1,0 +1,22 @@
+{
+  "lastBuildDate": "Mon, 07 Sep 2026 16:41:34 +0900",
+  "total": 45678,
+  "start": 1,
+  "display": 2,
+  "items": [
+    {
+      "title": "<b>LTX</b> 2.5 영상 모델 공개",
+      "originallink": "https://press.example.com/article/1",
+      "link": "https://n.news.naver.com/article/001/0001",
+      "description": "<b>LTX</b> 2.5가 로컬 영상 생성 성능을 개선했다고 &lt;발표&gt;",
+      "pubDate": "Mon, 07 Sep 2026 10:00:00 +0900"
+    },
+    {
+      "title": "AI 영상 생성 동향",
+      "originallink": "https://press2.example.com/b",
+      "link": "https://press2.example.com/b",
+      "description": "네이버에 제공되지 않은 기사 예시",
+      "pubDate": "Sun, 06 Sep 2026 09:00:00 +0900"
+    }
+  ]
+}

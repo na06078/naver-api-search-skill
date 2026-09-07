@@ -1,0 +1,6 @@
+{
+  "timeout_seconds": 20,
+  "max_retries": 1,
+  "default_display": 10,
+  "output_schema_version": "1.0"
+}

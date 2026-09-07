@@ -1,0 +1,25 @@
+{
+  "startDate": "2026-01-01",
+  "endDate": "2026-03-01",
+  "timeUnit": "month",
+  "results": [
+    {
+      "title": "LTX",
+      "keywords": ["LTX", "LTX Video"],
+      "data": [
+        { "period": "2026-01-01", "ratio": 47.0 },
+        { "period": "2026-02-01", "ratio": 53.23 },
+        { "period": "2026-03-01", "ratio": 100.0 }
+      ]
+    },
+    {
+      "title": "Wan",
+      "keywords": ["Wan", "Wan Video"],
+      "data": [
+        { "period": "2026-01-01", "ratio": 40.08 },
+        { "period": "2026-02-01", "ratio": 36.69 },
+        { "period": "2026-03-01", "ratio": 52.11 }
+      ]
+    }
+  ]
+}

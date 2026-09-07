@@ -1,0 +1,19 @@
+{
+  "lastBuildDate": "Mon, 07 Sep 2026 16:41:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 1,
+  "items": [
+    {
+      "title": "본죽 강남점",
+      "link": "https://map.naver.com/local/111",
+      "category": "음식점>죽",
+      "description": "건강한 죽 전문점",
+      "telephone": "",
+      "address": "서울특별시 강남구 역삼동 123-4",
+      "roadAddress": "서울특별시 강남구 테헤란로 100",
+      "mapx": "1270285000",
+      "mapy": "375012000"
+    }
+  ]
+}

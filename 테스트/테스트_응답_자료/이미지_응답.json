@@ -1,0 +1,22 @@
+{
+  "lastBuildDate": "Mon, 07 Sep 2026 16:41:34 +0900",
+  "total": 98765,
+  "start": 1,
+  "display": 2,
+  "items": [
+    {
+      "title": "구서울 <b>원룸</b> 인테리어",
+      "link": "https://image.example.com/a.jpg",
+      "thumbnail": "https://image.example.com/a_thumb.jpg",
+      "sizeheight": "800",
+      "sizewidth": "1200"
+    },
+    {
+      "title": "레트로 원룸 사진",
+      "link": "https://image.example.com/b.png",
+      "thumbnail": "https://image.example.com/b_thumb.png",
+      "sizeheight": "600",
+      "sizewidth": "600"
+    }
+  ]
+}

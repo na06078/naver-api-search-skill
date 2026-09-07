@@ -1,0 +1,24 @@
+{
+  "lastBuildDate": "Mon, 07 Sep 2026 16:41:34 +0900",
+  "total": 1234567,
+  "start": 1,
+  "display": 2,
+  "items": [
+    {
+      "title": "<b>AMD</b> ComfyUI 설치 후기",
+      "link": "https://blog.naver.com/user/111",
+      "description": "<b>AMD</b> 환경에서 ComfyUI를 설치한 과정을 정리했습니다 &amp; 팁 공유",
+      "bloggername": "테크블로그",
+      "bloggerlink": "https://blog.naver.com/user",
+      "postdate": "20260901"
+    },
+    {
+      "title": "ComfyUI ROCm 정리",
+      "link": "https://blog.naver.com/user2/222",
+      "description": "ROCm 7.2 기반 성능 비교",
+      "bloggername": "그래픽연구소",
+      "bloggerlink": "https://blog.naver.com/user2",
+      "postdate": "20260830"
+    }
+  ]
+}
