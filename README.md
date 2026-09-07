@@ -56,8 +56,6 @@ NAVER_CLIENT_ID=<본인의_Client_ID>
 NAVER_CLIENT_SECRET=<본인의_Client_Secret>
 ```
 
-`.env`는 절대로 GitHub에 올리지 않습니다. 저장소의 `.gitignore`가 `.env`를 제외하지만, push 전에 자동 검사를 다시 수행합니다.
-
 ### 4. 실제 설치
 
 ```bash
